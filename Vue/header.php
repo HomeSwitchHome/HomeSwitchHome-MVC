@@ -1,5 +1,3 @@
-<?php require_once("config.php"); ?>
-
 <div id="menu-wrapper">
        
         <div id="menu" class="container">

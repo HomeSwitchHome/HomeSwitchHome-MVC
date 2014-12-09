@@ -1,6 +1,5 @@
 <?php 
-
-//Copié-collé de APP-MVC
+    // Copié-collé de APP-MVC
 
     session_start();
     require("Modele/connexion.php");

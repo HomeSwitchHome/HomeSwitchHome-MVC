@@ -13,5 +13,6 @@
         <div id="global">
             
         </div>
-<?php include 'Vue/footer.php'
+
+<?php include 'Vue/footer.php' ?>
 </html>
