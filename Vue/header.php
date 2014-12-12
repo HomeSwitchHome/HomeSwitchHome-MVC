@@ -1,10 +1,11 @@
+
 <div id="menu-wrapper">
        
         <div id="menu" class="container">
        
                 <ul>
        
-                        <li><a href="index.php"><img src="logo2.png" height="40" width="40" id="logo2"></a></li>
+                        <li><a href="index.php"><img src="images/logo2.png" height="40" width="40" id="logo2" alt="HsH" /></a></li>
                         <li><a href="#">Forum</a></li>
                         <li><a href="#">Logements</a></li>
  
@@ -20,7 +21,7 @@
  
 ?>
  
-                        <li><a href="index.php"><img src="logo2.png" height="40" width="40" id="logo2"></a></li>
+                        <li><a href="index.php"><img src="images/logo2.png" height="40" width="40" id="logo2" alt="HsH"/></a></li>
                 </ul>
        
         </div>
