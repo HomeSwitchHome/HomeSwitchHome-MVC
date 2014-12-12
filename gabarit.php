@@ -10,9 +10,7 @@
     </head>
 <?php include 'Vue/header.php' ?>
 
-        <div id="global">
-            
-        </div>
+<?php echo($contenu); ?>
 
 <?php include 'Vue/footer.php' ?>
 </html>
